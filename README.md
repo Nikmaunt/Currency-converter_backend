@@ -1,10 +1,9 @@
 # Getting Started
 
 
-This is a backend part of [Currency converter application](https://github.com/Nikmaunt/currency-converter).
+This is a backend part of [Currency converter](https://github.com/Nikmaunt/currency-converter).
 
 [Node.js](https://nodejs.org) and [Firebase](https://firebase.google.com)  project.
-
 
 ## Install Dependencies
 
