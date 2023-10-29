@@ -1,6 +1,10 @@
 # Getting Started
 
-This is a [Node.js](https://nodejs.org) and [Firebase](https://firebase.google.com) project.
+
+This is a backend part of [this repository](https://github.com/Nikmaunt/currency-converter).
+
+[Node.js](https://nodejs.org) and [Firebase](https://firebase.google.com)  project.
+
 
 ## Install Dependencies
 
