@@ -11,8 +11,8 @@ const getInitialCurrencies = async () => {
             return null;
         }
     } catch (error) {
-        console.error('Ошибка при получении данных о валютах:', error);
-        throw new Error('Ошибка при получении данных о валютах.');
+        console.error('Error when retrieving currency data:', error);
+        throw new Error('Error when retrieving currency data');
     }
 };
 

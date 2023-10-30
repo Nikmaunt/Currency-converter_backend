@@ -7,7 +7,7 @@ exports.getInitialCurrencies = async (req, res) => {
         if (initialCurrencies) {
             res.json({ initialCurrencies });
         } else {
-            res.status(500).json({ error: 'Данные о валютах отсутствуют в базе данных.' });
+            res.status(500).json({ error: 'Currency data is not available in the database.' });
         }
     } catch (error) {
         res.status(500).json({ error: error.message });
